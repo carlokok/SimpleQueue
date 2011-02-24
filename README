@@ -1,0 +1,5 @@
+This a simple, set of classes to support an in-memory message, and a STOMP one (can talk to RabbitMQ for example).
+
+License MIT.
+
+The stomp code requires Internet Pack, http://code.remobjects.com/p/internetpack/ for the async classes.
